@@ -16,4 +16,4 @@ These folders contain datasets and trained model files and are hosted on Google 
 
 ---
 
-# NOTE : PUT THE WHOLE FOLDER AFTER DOWNLOADING THAT GIVEN PATH
+# NOTE : PUT THE WHOLE FOLDER AFTER DOWNLOADING IN THAT GIVEN PATH
